@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/057b4706-7523-4a37-b73c-4ea87d0deaa3)
+![image](https://github.com/user-attachments/assets/5dabcab4-bf52-4f75-aaa9-e24850ad7e10)
 
 # Deep Learning: Artificial Neural Networks with TensorFlow & Keras
 
